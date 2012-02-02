@@ -1,0 +1,10 @@
+name: SaveStop
+main: org.kitteh.simple.SaveStop
+version: 1.0
+website: http://kitteh.org
+author: mbaxter
+description: Clean shutdowns!
+commands:
+  savestop:
+    description: Save then shut down
+    usage: /savestop
